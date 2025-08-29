@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Complejidad Algoritmos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
